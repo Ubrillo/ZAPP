@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\main.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\main.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/main.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Card\\Card.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Card\\Card.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Card\\Card.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Card/Card.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Card/Card.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Area\\Area.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Area\\Area.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Area\\Area.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Area/Area.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Area/Area.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Area\\AreaTester.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Area\\AreaTester.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Area\\AreaTester.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Area/AreaTester.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Area/AreaTester.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Card\\CardTester.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Card\\CardTester.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Card\\CardTester.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Card/CardTester.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Card/CardTester.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Bridge\\Bridge.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Bridge\\Bridge.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Bridge\\Bridge.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Bridge/Bridge.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Bridge/Bridge.cpp.obj"
+},
+{
+  "directory": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -g -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\zapp.dir\\Bridge\\BridgeTester.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\zapp.dir\\Bridge\\BridgeTester.cpp.obj -c C:\\Users\\ubril\\OneDrive\\c++\\zapp\\Bridge\\BridgeTester.cpp",
+  "file": "C:/Users/ubril/OneDrive/c++/zapp/Bridge/BridgeTester.cpp",
+  "output": "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir/Bridge/BridgeTester.cpp.obj"
+}
+]

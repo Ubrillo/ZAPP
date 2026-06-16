@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\zapp.dir\\Bridge\\Bridge.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

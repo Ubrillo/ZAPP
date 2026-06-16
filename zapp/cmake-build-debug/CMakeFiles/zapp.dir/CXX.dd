@@ -1,0 +1,15 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/zapp.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Card/Card.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Area/Area.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Area/AreaTester.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Card/CardTester.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Bridge/Bridge.cpp.obj: dyndep
+
+build CMakeFiles/zapp.dir/Bridge/BridgeTester.cpp.obj: dyndep
+

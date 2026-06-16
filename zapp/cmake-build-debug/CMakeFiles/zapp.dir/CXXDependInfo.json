@@ -1,0 +1,57 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/ubril/OneDrive/c++/zapp",
+	"dir-top-bld" : "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug",
+	"dir-top-src" : "C:/Users/ubril/OneDrive/c++/zapp",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ubril/OneDrive/c++/zapp/cmake-build-debug/CMakeFiles/zapp.dir",
+	"sources" : 
+	{
+		"CMakeFiles/zapp.dir/Area/Area.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Area/Area.cpp"
+		},
+		"CMakeFiles/zapp.dir/Area/AreaTester.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Area/AreaTester.cpp"
+		},
+		"CMakeFiles/zapp.dir/Bridge/Bridge.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Bridge/Bridge.cpp"
+		},
+		"CMakeFiles/zapp.dir/Bridge/BridgeTester.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Bridge/BridgeTester.cpp"
+		},
+		"CMakeFiles/zapp.dir/Card/Card.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Card/Card.cpp"
+		},
+		"CMakeFiles/zapp.dir/Card/CardTester.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/Card/CardTester.cpp"
+		},
+		"CMakeFiles/zapp.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ubril/OneDrive/c++/zapp/main.cpp"
+		}
+	}
+}
