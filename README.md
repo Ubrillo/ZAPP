@@ -6,6 +6,9 @@ Zapp is a C++ system for managing guest movement around a pleasure park using a 
 
 A park is modelled as a set of **areas** (leisure facilities), connected by **bridges**. Each bridge crossing costs a number of credits, which are deducted from a guest's **card**. Certain conditions must be satisfied before a card can be used to cross a bridge (e.g. card type, age restrictions, or other park-specific rules). Credits can be purchased and loaded onto a card at any time.
 
+![park image](zenithpark.png)
+---
+
 ## Features
 
 - Model a park as a graph of areas linked by bridges
