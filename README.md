@@ -1,6 +1,6 @@
-# Zapp – Pleasure Park Guest Management System
+# ZAPP – Pleasure Park Guest Management System
 
-Zapp is a C++ system for managing guest movement around a pleasure park using a network of areas connected by bridges. Guests carry a personalised card that must be used (and loaded with credits) to cross bridges between areas. This build targets **Fantasia Pleasure Park**, with a view to rolling the system out to other ZAPP-managed parks.
+ZAPP (Zenith Application Pleasure Park) is a C++ system for managing guest movement around a pleasure park using a network of areas connected by bridges. Guests carry a personalised card that must be used (and loaded with credits) to cross bridges between areas. This build targets **Fantasia Pleasure Park**, with a view to rolling the system out to other ZAPP-managed parks.
 
 ## Overview
 
